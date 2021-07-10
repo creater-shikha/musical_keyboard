@@ -1,0 +1,45 @@
+body{
+    background-image: url("https://www.epichotel.com/images/1700-960/concert-crowd-filming-with-smartphone-000078536871-full-e0930ab7.jpg");
+    background-repeat: no-repeat;
+    background-position: cover;
+  
+
+}
+#music-button{
+    position:absolute;
+    top:40%;
+    right: 15%;
+
+    width: 70vw;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content:space-evenly;
+    align-content: space-around;
+    
+}
+p{
+    text-align: center;
+    font-size: 10px;
+    color: rgb(226, 217, 162);
+}
+.button1{
+    background-color: transparent;
+    color: white;
+    border-radius: 5px;
+    border-color:rgb(252, 242, 110);
+   padding: 10px 5px;
+   font-size: 50px;
+   width: 70px;
+
+}
+.button{
+    background-color: transparent;
+    color: white;
+    border-radius: 5px;
+    border-color:black;
+   padding: 10px 5px;
+   font-size: 30px;
+   width: 70px;
+}
+
